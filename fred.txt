@@ -1,1 +1,2 @@
 hello fred
+imm making changes to check out my knowledge of git 
